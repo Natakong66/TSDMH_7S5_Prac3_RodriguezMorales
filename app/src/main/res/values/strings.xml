@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TSDMH_7S5_Prac33_Felipe05</string>
+    <string name="p1titulo">Ingreso de datos</string>
+    <string name="p1Nombre">Ingresa tu nombre</string>
+    <string name="p2Edad">Ingresa tu edad</string>
+    <string name="p1hNombre">Aqui tu nombre</string>
+    <string name="p1hEdad">Edad</string>
+    <string name="p1btn1">Saluda</string>
+    <string name="Dialogook">Aceptar</string>
+</resources>
